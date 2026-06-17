@@ -4,6 +4,14 @@
 [![PHP Version](https://img.shields.io/badge/php-v8.2-777bb4.svg?logo=php)](https://www.php.net/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
+---
+
+### 🔗 Repositori Terkait
+
+* **Repository Frontend App (React + Vite):** [panud007/pc-checking](https://github.com/panud007/pc-checking)
+
+---
+
 Hardware Checker API adalah backend RESTful API berbasis framework Laravel yang dirancang untuk mendukung sistem penyimpanan data pengujian perangkat keras (*diagnostic reports*) dan pendaftaran unit masuk (*service intake*) dari aplikasi frontend **PC Quick Diagnostic Tool**.
 
 ---
