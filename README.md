@@ -6,7 +6,7 @@
 
 ---
 
-### 🔗 Repositori Terkait
+## 🔗 Repositori Terkait
 
 * **Repository Frontend App (React + Vite):** [panud007/pc-checking](https://github.com/panud007/pc-checking)
 
